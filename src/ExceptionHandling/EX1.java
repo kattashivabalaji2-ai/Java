@@ -8,8 +8,7 @@ public class EX1 {
         j=0;
         int[] arr={1,2,3,4,5};
         try{
-            k=i/j;
-
+            //k=i/j;
             System.out.println(arr[10]);
 
         }catch(ArithmeticException e){
