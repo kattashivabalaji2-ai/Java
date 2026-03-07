@@ -4,7 +4,7 @@ public class MissingNumber {
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
         int n=in.nextInt();
-        int[] arr=new int[n];m
+        int[] arr=new int[n];
         int sum=0;
         sum=n*(n+1)/2;
         int actsum=0;
